@@ -5,7 +5,7 @@
 global isErasing := false
 global incrementsOfFive := 5
 
-e:: {
+^e:: {
 	global isErasing
 	global incrementsOfFive
 

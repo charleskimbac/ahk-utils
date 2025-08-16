@@ -85,13 +85,9 @@ Some AHK scripts that I personally use.
 
 <details>
   <summary><a>PDNerase: Easily mimic MS Paint's erase interaction in Paint.NET</a></summary>
-  This assumes that the background is white. Press E to switch between draw/erase mode.
+  This assumes that the background is white. Press Ctrl+E to switch between draw/erase mode.
 </details>
 
 <details>
   <summary>WindowAlwaysOnTop: Press Ctrl+Space to toggle between keeping a window always on top and not.</summary>
-</details>
-
-<details>
-  <summary>CountEnter: Counts and shows how many times you press Enter. Using it for a specific temporary use case.</summary>
 </details>
